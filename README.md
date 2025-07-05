@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Eva Sisalli Guzmán
+# ¡Hola! Soy Eva Sisalli Guzmán
 
 ### 🌐 [**Ver mi Portfolio**](https://eva-portfolio.lovable.app/) ⭐
 
@@ -88,7 +88,7 @@ Plataforma para reservar experiencias y talleres
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Eva_Sisalli-6A5ACD?style=for-the-badge&logo=web&logoColor=white)](https://eva-portfolio.lovable.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eva_Sisalli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
-[![Email](https://img.shields.io/badge/Email-eva.sg.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sisalli@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-e.sisalli@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sisalli@yahoo.com)
 
 ---
 
