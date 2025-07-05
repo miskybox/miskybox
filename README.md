@@ -87,8 +87,6 @@ Plataforma para reservar experiencias y talleres
 ## 🌐 Conecta conmigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Eva_Sisalli-6A5ACD?style=for-the-badge&logo=web&logoColor=white)](https://eva-portfolio.lovable.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eva_Sisalli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eva-sisalli-guzman/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eva_Sisalli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eva-sisalli-guzman/)  
 [![Email](https://img.shields.io/badge/Email-e.sisalli@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.sisalli@yahoo.com)
-
----
 
